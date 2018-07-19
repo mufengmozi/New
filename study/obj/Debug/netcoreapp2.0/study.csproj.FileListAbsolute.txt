@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\study\study\bin\Debug\netcoreapp2.0\study.deps.json
+C:\Users\Administrator\source\repos\study\study\bin\Debug\netcoreapp2.0\study.runtimeconfig.json
+C:\Users\Administrator\source\repos\study\study\bin\Debug\netcoreapp2.0\study.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\study\study\bin\Debug\netcoreapp2.0\study.dll
+C:\Users\Administrator\source\repos\study\study\bin\Debug\netcoreapp2.0\study.pdb
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.dll
+C:\Users\Administrator\source\repos\study\study\obj\Debug\netcoreapp2.0\study.pdb
